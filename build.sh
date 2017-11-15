@@ -1,1 +1,1 @@
-docker build --rm -t docker.io/juandx/vim .
+docker build --rm -t docker.io/juandx/mydev .
